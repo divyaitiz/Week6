@@ -1,22 +1,19 @@
-Here is the **ultra-brief README** as requested:
 
----
 
-# SVM & KNN Assignment (Day 33)
+# SVM & KNN Assignment (Day 34)
 
 ## Overview
 
-This assignment focuses on implementing and comparing **SVM** and **KNN** for a digit classification task, along with exploring scalable nearest neighbor search.
+This assignment focuses on implementing and comparing **SVM** and **KNN** for digit classification, along with exploring efficient nearest neighbor search.
 
 ---
 
-## Folder Contents (Day 33)
+## Folder Contents
 
-* `notebook.ipynb` → Full implementation (SVM, KNN, evaluation)
-* `knn_from_scratch.py` → NumPy implementation of KNN
-* `faiss_experiment.ipynb` → FAISS vs sklearn comparison
-* `README.md` → Assignment summary
+* `Day_34_AM_Part_A.ipynb` → SVM & KNN implementation and evaluation
+* `Day34_AM_PartB.ipynb` → FAISS experiment and comparison
+* `Day33_AM_PartC.docx` → Conceptual answers
+* `Day34_AM_PartC_Q2.ipynb` → KNN from scratch implementation
+* `Day34_README.md` → Assignment README
 
 ---
-
-If your actual file names differ, I can tailor this exactly to your repo structure.
